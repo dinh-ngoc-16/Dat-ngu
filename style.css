@@ -1,0 +1,23 @@
+button {
+  color: #fff;
+  padding: 25px 50px;
+  margin: 10px;
+}
+.btn-games {
+  background-color: blueviolet;
+}
+.btn-genres {
+  background-color: yellow;
+  color: #000;
+}
+.btn-tags {
+  background-color: red;
+  color: #000;
+}
+.btn-detail-game {
+  background-color: blue;
+}
+.btn-featured-games {
+  background-color: greenyellow;
+  color: #000;
+}
